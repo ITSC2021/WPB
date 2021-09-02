@@ -1,4 +1,4 @@
-## Welcome to the 1st Workshop on the Detection, Recognition, and Prediction of Pedestrian Behaviors
+## Welcome to 
 
 You can use the [editor on GitHub](https://github.com/ITSC2021/WPB/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
